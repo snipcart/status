@@ -14,6 +14,6 @@ sites:
 status-website:
   publish: true
   cname: status.snipcart.com
-  name: Snipcart Status Page
+  name: Snipcart Status
   logoUrl: https://snipcart.com/favicon-180x180.png
   favicon: https://snipcart.com/favicon-180x180.png
