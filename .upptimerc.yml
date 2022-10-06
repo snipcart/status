@@ -15,6 +15,5 @@ status-website:
   publish: true
   cname: status.snipcart.com
   name: Snipcart Status Page
-  theme: dark  
-  logoUrl: https://support.snipcart.com/uploads/default/original/1X/8d5d6eaa88b80a3fbe477637722c750bdb4d0048.png
+  logoUrl: https://snipcart.com/favicon-180x180.png
   favicon: https://snipcart.com/favicon-180x180.png
