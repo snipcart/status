@@ -9,8 +9,8 @@ sites:
     url: https://docs.snipcart.com/
   - name: Support Forum
     url: https://support.snipcart.com/
-  - name: API
-    url: https://api.snipcart.com/
+  - name: Dashboard
+    url: https://app.snipcart.com/
 
 status-website:
   theme: dark
