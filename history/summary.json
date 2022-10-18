@@ -4,19 +4,19 @@
     "url": "https://app.snipcart.com/",
     "icon": "https://icons.duckduckgo.com/ip3/app.snipcart.com.ico",
     "slug": "merchant-dashboard-app-snipcart-com",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 239,
-    "timeDay": 280,
-    "timeWeek": 211,
-    "timeMonth": 239,
-    "timeYear": 239,
+    "status": "up",
+    "uptime": "99.95%",
+    "uptimeDay": "99.43%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.95%",
+    "time": 244,
+    "timeDay": 307,
+    "timeWeek": 226,
+    "timeMonth": 244,
+    "timeYear": 244,
     "dailyMinutesDown": {
-      "2022-10-18": 0
+      "2022-10-18": 8
     }
   },
   {
