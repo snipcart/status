@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 219,
-    "timeDay": 108,
-    "timeWeek": 193,
-    "timeMonth": 195,
+    "timeDay": 206,
+    "timeWeek": 187,
+    "timeMonth": 198,
     "timeYear": 219,
     "dailyMinutesDown": {}
   },
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 173,
-    "timeDay": 50,
-    "timeWeek": 187,
-    "timeMonth": 170,
-    "timeYear": 173,
+    "time": 174,
+    "timeDay": 258,
+    "timeWeek": 177,
+    "timeMonth": 177,
+    "timeYear": 174,
     "dailyMinutesDown": {}
   },
   {
@@ -41,19 +41,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/docs.snipcart.com.ico",
     "slug": "documentation",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
-    "time": 722,
-    "timeDay": 1438,
-    "timeWeek": 1176,
-    "timeMonth": 907,
-    "timeYear": 722,
-    "dailyMinutesDown": {
-      "2022-12-10": 8
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 718,
+    "timeDay": 1467,
+    "timeWeek": 1174,
+    "timeMonth": 915,
+    "timeYear": 718,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Support Forum",
@@ -66,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 425,
-    "timeDay": 177,
-    "timeWeek": 300,
-    "timeMonth": 325,
-    "timeYear": 425,
+    "time": 424,
+    "timeDay": 341,
+    "timeWeek": 307,
+    "timeMonth": 328,
+    "timeYear": 424,
     "dailyMinutesDown": {}
   }
 ]
