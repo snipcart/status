@@ -22,18 +22,20 @@
     "url": "https://snipcart.com/",
     "icon": "https://icons.duckduckgo.com/ip3/snipcart.com.ico",
     "slug": "snipcart-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 174,
-    "timeDay": 283,
-    "timeWeek": 173,
-    "timeMonth": 176,
-    "timeYear": 174,
-    "dailyMinutesDown": {}
+    "time": 207,
+    "timeDay": 1677,
+    "timeWeek": 495,
+    "timeMonth": 267,
+    "timeYear": 207,
+    "dailyMinutesDown": {
+      "2022-12-13": 0
+    }
   },
   {
     "name": "Documentation",
