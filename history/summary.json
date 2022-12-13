@@ -40,20 +40,18 @@
     "url": "https://docs.snipcart.com/",
     "icon": "https://icons.duckduckgo.com/ip3/docs.snipcart.com.ico",
     "slug": "documentation",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 790,
-    "timeDay": 1799,
-    "timeWeek": 1618,
-    "timeMonth": 1106,
-    "timeYear": 790,
-    "dailyMinutesDown": {
-      "2022-12-13": 0
-    }
+    "time": 784,
+    "timeDay": 1277,
+    "timeWeek": 1536,
+    "timeMonth": 1084,
+    "timeYear": 784,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Support Forum",
