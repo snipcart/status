@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 216,
-    "timeDay": 91,
-    "timeWeek": 244,
+    "timeDay": 234,
+    "timeWeek": 228,
     "timeMonth": 203,
     "timeYear": 216,
     "dailyMinutesDown": {}
@@ -23,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/snipcart.com.ico",
     "slug": "snipcart-com",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 355,
-    "timeDay": 2818,
-    "timeWeek": 1314,
-    "timeMonth": 647,
+    "timeDay": 2858,
+    "timeWeek": 1336,
+    "timeMonth": 648,
     "timeYear": 355,
-    "dailyMinutesDown": {
-      "2022-12-28": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Documentation",
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 709,
-    "timeDay": 231,
-    "timeWeek": 188,
-    "timeMonth": 936,
-    "timeYear": 709,
+    "time": 706,
+    "timeDay": 435,
+    "timeWeek": 236,
+    "timeMonth": 939,
+    "timeYear": 706,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 402,
-    "timeDay": 210,
-    "timeWeek": 329,
-    "timeMonth": 304,
-    "timeYear": 402,
+    "time": 401,
+    "timeDay": 296,
+    "timeWeek": 310,
+    "timeMonth": 302,
+    "timeYear": 401,
     "dailyMinutesDown": {}
   }
 ]
