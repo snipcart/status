@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 221,
-    "timeDay": 165,
-    "timeWeek": 264,
-    "timeMonth": 221,
-    "timeYear": 221,
+    "time": 222,
+    "timeDay": 380,
+    "timeWeek": 278,
+    "timeMonth": 231,
+    "timeYear": 222,
     "dailyMinutesDown": {}
   },
   {
@@ -23,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/snipcart.com.ico",
     "slug": "snipcart-com",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
-    "time": 339,
-    "timeDay": 112,
-    "timeWeek": 155,
-    "timeMonth": 613,
-    "timeYear": 339,
-    "dailyMinutesDown": {
-      "2023-01-06": 9
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 337,
+    "timeDay": 52,
+    "timeWeek": 147,
+    "timeMonth": 620,
+    "timeYear": 337,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Documentation",
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 680,
-    "timeDay": 311,
-    "timeWeek": 308,
-    "timeMonth": 794,
-    "timeYear": 680,
+    "time": 676,
+    "timeDay": 249,
+    "timeWeek": 290,
+    "timeMonth": 748,
+    "timeYear": 676,
     "dailyMinutesDown": {}
   },
   {
@@ -67,9 +65,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 395,
-    "timeDay": 337,
-    "timeWeek": 328,
-    "timeMonth": 305,
+    "timeDay": 383,
+    "timeWeek": 334,
+    "timeMonth": 308,
     "timeYear": 395,
     "dailyMinutesDown": {}
   }
