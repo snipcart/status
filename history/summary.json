@@ -6,15 +6,15 @@
     "slug": "merchant-dashboard-app-snipcart-com",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "96.93%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.56%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.97%",
-    "time": 217,
-    "timeDay": 170,
-    "timeWeek": 173,
-    "timeMonth": 221,
-    "timeYear": 217,
+    "time": 218,
+    "timeDay": 340,
+    "timeWeek": 200,
+    "timeMonth": 224,
+    "timeYear": 218,
     "dailyMinutesDown": {
       "2023-01-27": 44
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 302,
-    "timeDay": 98,
-    "timeWeek": 108,
-    "timeMonth": 482,
-    "timeYear": 302,
+    "time": 300,
+    "timeDay": 46,
+    "timeWeek": 110,
+    "timeMonth": 109,
+    "timeYear": 300,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 613,
-    "timeDay": 443,
-    "timeWeek": 319,
-    "timeMonth": 275,
-    "timeYear": 613,
+    "time": 611,
+    "timeDay": 226,
+    "timeWeek": 315,
+    "timeMonth": 268,
+    "timeYear": 611,
     "dailyMinutesDown": {}
   },
   {
@@ -67,9 +67,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 378,
-    "timeDay": 458,
-    "timeWeek": 294,
-    "timeMonth": 299,
+    "timeDay": 473,
+    "timeWeek": 336,
+    "timeMonth": 305,
     "timeYear": 378,
     "dailyMinutesDown": {}
   }
