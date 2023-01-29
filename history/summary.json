@@ -60,19 +60,19 @@
     "url": "https://support.snipcart.com/",
     "icon": "https://icons.duckduckgo.com/ip3/support.snipcart.com.ico",
     "slug": "support-forum",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 378,
-    "timeDay": 473,
-    "timeWeek": 336,
-    "timeMonth": 305,
-    "timeYear": 378,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.02%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 384,
+    "timeDay": 777,
+    "timeWeek": 429,
+    "timeMonth": 329,
+    "timeYear": 384,
     "dailyMinutesDown": {
-      "2023-01-29": 0
+      "2023-01-29": 14
     }
   }
 ]
