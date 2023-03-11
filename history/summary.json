@@ -24,19 +24,19 @@
     "url": "https://snipcart.com/",
     "icon": "https://icons.duckduckgo.com/ip3/snipcart.com.ico",
     "slug": "snipcart-com",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.27%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 266,
-    "timeDay": 142,
-    "timeWeek": 205,
-    "timeMonth": 158,
-    "timeYear": 266,
+    "time": 265,
+    "timeDay": 121,
+    "timeWeek": 192,
+    "timeMonth": 156,
+    "timeYear": 265,
     "dailyMinutesDown": {
-      "2023-03-11": 0
+      "2023-03-11": 10
     }
   },
   {
