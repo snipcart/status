@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 290,
-    "timeDay": 329,
-    "timeWeek": 1818,
-    "timeMonth": 610,
-    "timeYear": 290,
+    "time": 289,
+    "timeDay": 74,
+    "timeWeek": 1800,
+    "timeMonth": 604,
+    "timeYear": 289,
     "dailyMinutesDown": {
       "2023-01-27": 44
     }
@@ -26,18 +26,16 @@
     "slug": "snipcart-com",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 265,
-    "timeDay": 163,
-    "timeWeek": 198,
-    "timeMonth": 159,
-    "timeYear": 265,
-    "dailyMinutesDown": {
-      "2023-03-11": 5
-    }
+    "time": 264,
+    "timeDay": 152,
+    "timeWeek": 181,
+    "timeMonth": 153,
+    "timeYear": 264,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Documentation",
@@ -50,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 540,
-    "timeDay": 376,
-    "timeWeek": 400,
-    "timeMonth": 311,
-    "timeYear": 540,
+    "time": 539,
+    "timeDay": 314,
+    "timeWeek": 380,
+    "timeMonth": 307,
+    "timeYear": 539,
     "dailyMinutesDown": {}
   },
   {
@@ -68,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 381,
-    "timeDay": 415,
-    "timeWeek": 339,
-    "timeMonth": 386,
-    "timeYear": 381,
+    "time": 382,
+    "timeDay": 395,
+    "timeWeek": 349,
+    "timeMonth": 384,
+    "timeYear": 382,
     "dailyMinutesDown": {}
   }
 ]
