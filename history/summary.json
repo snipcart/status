@@ -4,7 +4,7 @@
     "url": "https://app.snipcart.com/",
     "icon": "https://icons.duckduckgo.com/ip3/app.snipcart.com.ico",
     "slug": "merchant-dashboard-app-snipcart-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 579,
     "timeYear": 282,
     "dailyMinutesDown": {
+      "2023-03-30": 0,
       "2023-01-27": 44
     }
   },
