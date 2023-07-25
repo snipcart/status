@@ -25,19 +25,19 @@
     "url": "https://snipcart.com/",
     "icon": "https://icons.duckduckgo.com/ip3/snipcart.com.ico",
     "slug": "snipcart-com",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.81%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 211,
-    "timeDay": 277,
-    "timeWeek": 203,
-    "timeMonth": 132,
+    "timeDay": 279,
+    "timeWeek": 213,
+    "timeMonth": 137,
     "timeYear": 211,
     "dailyMinutesDown": {
-      "2023-07-25": 0,
+      "2023-07-25": 17,
       "2023-03-12": 28
     }
   },
@@ -48,18 +48,16 @@
     "slug": "documentation",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.12%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 445,
     "timeDay": 319,
     "timeWeek": 363,
     "timeMonth": 273,
     "timeYear": 445,
-    "dailyMinutesDown": {
-      "2023-07-25": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Support Forum",
