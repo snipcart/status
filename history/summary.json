@@ -25,9 +25,9 @@
     "url": "https://snipcart.com/",
     "icon": "https://icons.duckduckgo.com/ip3/snipcart.com.ico",
     "slug": "snipcart-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -37,6 +37,7 @@
     "timeMonth": 132,
     "timeYear": 211,
     "dailyMinutesDown": {
+      "2023-07-25": 0,
       "2023-03-12": 28
     }
   },
@@ -45,19 +46,19 @@
     "url": "https://docs.snipcart.com/",
     "icon": "https://icons.duckduckgo.com/ip3/docs.snipcart.com.ico",
     "slug": "documentation",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.12%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 446,
-    "timeDay": 410,
-    "timeWeek": 382,
-    "timeMonth": 275,
-    "timeYear": 446,
+    "time": 445,
+    "timeDay": 319,
+    "timeWeek": 363,
+    "timeMonth": 273,
+    "timeYear": 445,
     "dailyMinutesDown": {
-      "2023-07-25": 0
+      "2023-07-25": 13
     }
   },
   {
