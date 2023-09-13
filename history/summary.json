@@ -27,9 +27,9 @@
     "slug": "snipcart-com",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 204,
     "timeDay": 145,
@@ -37,7 +37,6 @@
     "timeMonth": 162,
     "timeYear": 204,
     "dailyMinutesDown": {
-      "2023-09-12": 8,
       "2023-07-25": 17,
       "2023-03-12": 28
     }
