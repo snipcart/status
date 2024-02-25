@@ -47,18 +47,16 @@
     "slug": "documentation",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 359,
     "timeDay": 130,
     "timeWeek": 200,
     "timeMonth": 305,
     "timeYear": 289,
-    "dailyMinutesDown": {
-      "2024-02-24": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Support Forum",
