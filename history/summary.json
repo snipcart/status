@@ -44,11 +44,11 @@
     "url": "https://docs.snipcart.com/",
     "icon": "https://icons.duckduckgo.com/ip3/docs.snipcart.com.ico",
     "slug": "documentation",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.40%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 334,
     "timeDay": 168,
@@ -56,7 +56,7 @@
     "timeMonth": 167,
     "timeYear": 280,
     "dailyMinutesDown": {
-      "2024-03-16": 9
+      "2024-03-16": 0
     }
   },
   {
