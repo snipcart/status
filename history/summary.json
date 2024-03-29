@@ -11,13 +11,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 320,
-    "timeDay": 138,
-    "timeWeek": 176,
+    "timeDay": 303,
+    "timeWeek": 170,
     "timeMonth": 191,
     "timeYear": 324,
-    "dailyMinutesDown": {
-      "2023-03-30": 53
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Snipcart.com",
@@ -31,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 163,
-    "timeDay": 161,
-    "timeWeek": 149,
-    "timeMonth": 136,
+    "timeDay": 122,
+    "timeWeek": 133,
+    "timeMonth": 137,
     "timeYear": 129,
     "dailyMinutesDown": {
       "2023-07-25": 17
@@ -51,10 +49,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 315,
-    "timeDay": 252,
-    "timeWeek": 206,
-    "timeMonth": 167,
-    "timeYear": 278,
+    "timeDay": 208,
+    "timeWeek": 231,
+    "timeMonth": 171,
+    "timeYear": 277,
     "dailyMinutesDown": {}
   },
   {
@@ -68,10 +66,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 346,
-    "timeDay": 248,
-    "timeWeek": 313,
-    "timeMonth": 307,
+    "time": 347,
+    "timeDay": 468,
+    "timeWeek": 314,
+    "timeMonth": 309,
     "timeYear": 348,
     "dailyMinutesDown": {
       "2023-04-02": 52
