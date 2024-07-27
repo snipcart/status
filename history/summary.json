@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 306,
-    "timeDay": 5080,
-    "timeWeek": 898,
+    "timeDay": 310,
+    "timeWeek": 928,
     "timeMonth": 369,
     "timeYear": 261,
     "dailyMinutesDown": {}
@@ -24,17 +24,16 @@
     "slug": "snipcart-com",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.90%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.91%",
     "time": 144,
-    "timeDay": 2590,
-    "timeWeek": 951,
-    "timeMonth": 358,
-    "timeYear": 147,
+    "timeDay": 2593,
+    "timeWeek": 950,
+    "timeMonth": 359,
+    "timeYear": 146,
     "dailyMinutesDown": {
-      "2024-07-26": 8,
       "2024-04-18": 498
     }
   },
@@ -50,10 +49,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 259,
-    "timeDay": 199,
-    "timeWeek": 193,
+    "timeDay": 254,
+    "timeWeek": 210,
     "timeMonth": 208,
-    "timeYear": 238,
+    "timeYear": 237,
     "dailyMinutesDown": {}
   },
   {
@@ -68,10 +67,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 350,
-    "timeDay": 284,
-    "timeWeek": 339,
+    "timeDay": 455,
+    "timeWeek": 359,
     "timeMonth": 360,
-    "timeYear": 354,
+    "timeYear": 355,
     "dailyMinutesDown": {}
   }
 ]
