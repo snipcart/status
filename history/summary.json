@@ -60,9 +60,9 @@
     "url": "https://support.snipcart.com/",
     "icon": "https://icons.duckduckgo.com/ip3/support.snipcart.com.ico",
     "slug": "support-forum",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -71,6 +71,8 @@
     "timeWeek": 433,
     "timeMonth": 378,
     "timeYear": 352,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-26": 0
+    }
   }
 ]
