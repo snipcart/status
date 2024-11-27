@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 251,
-    "timeDay": 186,
-    "timeWeek": 249,
-    "timeMonth": 192,
+    "time": 250,
+    "timeDay": 95,
+    "timeWeek": 212,
+    "timeMonth": 191,
     "timeYear": 240,
     "dailyMinutesDown": {}
   },
@@ -29,8 +29,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 145,
-    "timeDay": 163,
-    "timeWeek": 119,
+    "timeDay": 135,
+    "timeWeek": 132,
     "timeMonth": 150,
     "timeYear": 149,
     "dailyMinutesDown": {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 241,
-    "timeDay": 257,
-    "timeWeek": 221,
-    "timeMonth": 263,
-    "timeYear": 245,
+    "time": 240,
+    "timeDay": 165,
+    "timeWeek": 165,
+    "timeMonth": 264,
+    "timeYear": 246,
     "dailyMinutesDown": {}
   },
   {
@@ -61,18 +61,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/support.snipcart.com.ico",
     "slug": "support-forum",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 357,
-    "timeDay": 328,
-    "timeWeek": 418,
-    "timeMonth": 376,
+    "timeDay": 293,
+    "timeWeek": 396,
+    "timeMonth": 374,
     "timeYear": 351,
-    "dailyMinutesDown": {
-      "2024-11-26": 8
-    }
+    "dailyMinutesDown": {}
   }
 ]
