@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.57%",
-    "time": 253,
-    "timeDay": 1152,
-    "timeWeek": 335,
-    "timeMonth": 223,
+    "time": 252,
+    "timeDay": 113,
+    "timeWeek": 338,
+    "timeMonth": 224,
     "timeYear": 263,
     "dailyMinutesDown": {
       "2025-03-25": 75,
@@ -44,8 +44,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.57%",
     "time": 149,
-    "timeDay": 176,
-    "timeWeek": 172,
+    "timeDay": 207,
+    "timeWeek": 186,
     "timeMonth": 166,
     "timeYear": 158,
     "dailyMinutesDown": {
@@ -72,18 +72,16 @@
     "slug": "documentation",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 324,
-    "timeDay": 404,
-    "timeWeek": 960,
-    "timeMonth": 782,
+    "timeDay": 310,
+    "timeWeek": 301,
+    "timeMonth": 783,
     "timeYear": 335,
-    "dailyMinutesDown": {
-      "2025-05-07": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Support Forum",
@@ -97,9 +95,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 362,
-    "timeDay": 470,
-    "timeWeek": 356,
-    "timeMonth": 357,
+    "timeDay": 249,
+    "timeWeek": 350,
+    "timeMonth": 355,
     "timeYear": 373,
     "dailyMinutesDown": {
       "2025-03-03": 23
