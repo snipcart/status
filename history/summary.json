@@ -70,19 +70,19 @@
     "url": "https://docs.snipcart.com/",
     "icon": "https://icons.duckduckgo.com/ip3/docs.snipcart.com.ico",
     "slug": "documentation",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.94%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 370,
-    "timeDay": 65,
-    "timeWeek": 209,
-    "timeMonth": 250,
-    "timeYear": 431,
+    "time": 369,
+    "timeDay": 88,
+    "timeWeek": 197,
+    "timeMonth": 245,
+    "timeYear": 430,
     "dailyMinutesDown": {
-      "2025-07-24": 0
+      "2025-07-24": 15
     }
   },
   {
