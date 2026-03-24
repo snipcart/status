@@ -5,19 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.snipcart.com.ico",
     "slug": "merchant-dashboard-app-snipcart-com",
     "status": "up",
-    "uptime": "99.00%",
+    "uptime": "99.01%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.44%",
-    "time": 291,
-    "timeDay": 292,
-    "timeWeek": 248,
-    "timeMonth": 262,
+    "uptimeYear": "99.71%",
+    "time": 292,
+    "timeDay": 236,
+    "timeWeek": 239,
+    "timeMonth": 260,
     "timeYear": 290,
     "dailyMinutesDown": {
-      "2025-03-25": 75,
-      "2025-03-24": 1440
+      "2025-03-25": 75
     }
   },
   {
@@ -30,19 +29,18 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.43%",
+    "uptimeYear": "99.71%",
     "time": 163,
-    "timeDay": 222,
-    "timeWeek": 220,
-    "timeMonth": 197,
+    "timeDay": 256,
+    "timeWeek": 194,
+    "timeMonth": 202,
     "timeYear": 175,
     "dailyMinutesDown": {
       "2026-01-11": 17,
       "2026-01-10": 8,
       "2025-11-09": 8,
       "2025-09-01": 8,
-      "2025-03-25": 75,
-      "2025-03-24": 1440
+      "2025-03-25": 75
     }
   },
   {
@@ -57,9 +55,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 637,
-    "timeDay": 357,
-    "timeWeek": 421,
-    "timeMonth": 867,
+    "timeDay": 300,
+    "timeWeek": 381,
+    "timeMonth": 860,
     "timeYear": 693,
     "dailyMinutesDown": {
       "2026-01-21": 12,
@@ -86,9 +84,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 371,
-    "timeDay": 384,
-    "timeWeek": 343,
-    "timeMonth": 359,
+    "timeDay": 274,
+    "timeWeek": 332,
+    "timeMonth": 356,
     "timeYear": 363,
     "dailyMinutesDown": {}
   }
