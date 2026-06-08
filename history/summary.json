@@ -45,16 +45,16 @@
     "url": "https://docs.snipcart.com/",
     "icon": "https://icons.duckduckgo.com/ip3/docs.snipcart.com.ico",
     "slug": "documentation",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "98.76%",
-    "uptimeMonth": "99.65%",
-    "uptimeYear": "99.93%",
-    "time": 625,
-    "timeDay": 326,
-    "timeWeek": 488,
-    "timeMonth": 508,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "93.25%",
+    "uptimeWeek": "97.80%",
+    "uptimeMonth": "99.42%",
+    "uptimeYear": "99.91%",
+    "time": 626,
+    "timeDay": 454,
+    "timeWeek": 497,
+    "timeMonth": 510,
     "timeYear": 655,
     "dailyMinutesDown": {
       "2025-07-24": 15,
@@ -72,7 +72,7 @@
       "2026-05-19": 30,
       "2026-06-02": 107,
       "2026-06-03": 18,
-      "2026-06-08": 0
+      "2026-06-08": 97
     }
   },
   {
