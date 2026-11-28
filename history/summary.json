@@ -22,12 +22,12 @@
     "url": "https://snipcart.com/",
     "icon": "https://icons.duckduckgo.com/ip3/snipcart.com.ico",
     "slug": "snipcart-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.15%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 201,
     "timeDay": 209,
     "timeWeek": 157,
@@ -35,7 +35,8 @@
     "timeYear": 208,
     "dailyMinutesDown": {
       "2026-01-10": 8,
-      "2026-01-11": 17
+      "2026-01-11": 17,
+      "2026-11-28": 5
     }
   },
   {
@@ -43,13 +44,13 @@
     "url": "https://docs.snipcart.com/",
     "icon": "https://icons.duckduckgo.com/ip3/docs.snipcart.com.ico",
     "slug": "documentation",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 660,
+    "time": 661,
     "timeDay": 521,
     "timeWeek": 354,
     "timeMonth": 475,
@@ -66,7 +67,8 @@
       "2026-06-03": 18,
       "2026-06-08": 97,
       "2026-09-21": 21,
-      "2026-09-24": 18
+      "2026-09-24": 18,
+      "2026-11-28": 0
     }
   },
   {
